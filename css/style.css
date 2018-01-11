@@ -264,7 +264,7 @@ textarea{
 }
 .inner-content .first-application p{
 	font-size: 16px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 35px;
 }
 .inner-content .inner-btn{
@@ -431,8 +431,7 @@ textarea{
 
 /* ===== CALL TO ACTION ===== */
 .inner-application{
-	padding: 100px 0; 
-	height: 60vh;
+	padding: 100px 0;
 	background: url('../img/inner-call-to-action.jpg') no-repeat center / cover;
 }
 .application-content span{
